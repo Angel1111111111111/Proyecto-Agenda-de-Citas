@@ -1,0 +1,232 @@
+﻿@{
+    ViewData["Title"] = "Clínica RadianteSonrisa";
+}
+
+<h1 class="title has-text-centered">@ViewData["Title"]</h1>
+
+
+<div>
+    <p class="content" style="font-size: 16px; font-weight: 600; color: #333;">
+        Somos un clínica odontológica dedicado a brindar atención dental personalizada para toda la familia.
+        Nuestro equipo de profesionales altamente calificados se esfuerza por brindar atención dental de calidad
+        en un ambiente acogedor y relajante. Desde limpiezas dentales periódicas hasta tratamientos especiales para proteger tu salud bucodental y embellecer tu sonrisa.
+    </p>
+</div>
+
+<body class="conocenos">
+    <section class="section">
+        <div class="container">
+            <p class="card-header-title is-size-4">
+                Valores
+            </p>
+            <div class="columns is-multiline">
+                <div class="column is-4">
+                    <div class="card mb-0">
+                        <header class="card-header">
+                            <p class="card-header-title has-text-centered">
+                                Excelencia
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content is-hidden">
+                            <div class="content">
+                                Nos esforzamos por alcanzar la excelencia en todos los tratamientos dentales que ofrecemos,
+                                utilizando la última tecnología y técnicas para garantizar los mejores resultados posibles.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column is-4">
+                    <div class="card mb-0">
+                        <header class="card-header">
+                            <p class="card-header-title has-text-centered">
+                                Empatía
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content is-hidden">
+                            <div class="content">
+                                Respetamos a cada paciente como un individuo único y nos esforzamos
+                                por brindar atención dental personalizada e integral que satisfaga sus necesidades e inquietudes.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column is-4">
+                    <div class="card mb-0">
+                        <header class="card-header">
+                            <p class="card-header-title has-text-centered">
+                                Integridad
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content is-hidden">
+                            <div class="content">
+                                Actuamos con integridad y transparencia en todos nuestros servicios
+                                y recomendaciones, brindando a nuestros pacientes la confianza de que están recibiendo la atención que realmente necesitan.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="columns is-multiline">
+                <div class="column is-4">
+                    <div class="card mb-0">
+                        <header class="card-header">
+                            <p class="card-header-title has-text-centered">
+                                Responsabilidad
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content is-hidden">
+                            <div class="content">
+                                Asumimos la responsabilidad de cuidar de la salud bucal de nuestros pacientes
+                                con integridad y profesionalismo, ofreciendo tratamientos seguros y efectivos para lograr sonrisas radiantes y saludables.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column is-4">
+                    <div class="card mb-0">
+                        <header class="card-header">
+                            <p class="card-header-title has-text-centered">
+                                Comunidad
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content is-hidden">
+                            <div class="content">
+                                Creemos en construir relaciones duraderas con nuestros pacientes
+                                y hacer una contribución positiva a nuestra comunidad brindando educación dental y programas preventivos.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column is-4">
+                    <div class="card mb-0">
+                        <header class="card-header">
+                            <p class="card-header-title has-text-centered">
+                                Innovación
+                            </p>
+                            <button class="card-header-icon" aria-label="more options">
+                                <span class="icon">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </header>
+                        <div class="card-content is-hidden">
+                            <div class="content">
+                                Nos mantenemos al tanto de los últimos avances en odontología para
+                                brindar tratamientos de vanguardia y estamos comprometidos con el desarrollo continuo y la mejora continua.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const cardHeaders = document.querySelectorAll('.card-header');
+
+            cardHeaders.forEach(header => {
+                const button = header.querySelector('.card-header-icon');
+                const content = header.nextElementSibling;
+
+                button.addEventListener('click', () => {
+                    content.classList.toggle('is-hidden');
+                });
+            });
+        });
+    </script>
+
+    <section class="section">
+        <div class="container">
+            <div class="has-text-centered">
+                <div class="buttons is-centered">
+                    <button class="button  is-success" data-target="mission-modal">
+                        <span class="icon" style="vertical-align: middle; margin-right: 10px;">
+                            <i class="fas fa-bullseye"></i>
+                        </span>
+                        Misión
+                    </button>
+                    <button class="button is-success" data-target="vision-modal">
+                        <span class="icon" style="vertical-align: middle; margin-right: 10px;">
+                            <i class="fas fa-eye"></i>
+                        </span>
+                        Visión
+                    </button>
+                </div>
+            </div>
+            <div class="modal" id="mission-modal">
+                <div class="modal-background"></div>
+                <div class="modal-card">
+                    <header class="modal-card-head">
+                        <p class="modal-card-title">Misión</p>
+                        <button class="delete" aria-label="close"></button>
+                    </header>
+                    <section class="modal-card-body">
+                        En nuestra clínica dental, nos dedicamos a proporcionar atención dental de calidad a nuestra comunidad. Nuestra misión
+                        es mejorar la salud bucodental de nuestros pacientes a través de un enfoque personalizado y tecnología de vanguardia.
+                    </section>
+                </div>
+            </div>
+            <div class="modal" id="vision-modal">
+                <div class="modal-background"></div>
+                <div class="modal-card">
+                    <header class="modal-card-head">
+                        <p class="modal-card-title">Visión</p>
+                        <button class="delete" aria-label="close"></button>
+                    </header>
+                    <section class="modal-card-body">
+                        Nos esforzamos por ser una clínica líder en el campo de la odontología. Nuestra visión es ser reconocidos por nuestra
+                        excelencia en el tratamiento, la empatía con nuestros pacientes y la innovación constante. Aspiramos a influir positivamente
+                        en la salud bucal de nuestra comunidad.
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const modalButtons = document.querySelectorAll('.button');
+            const modalCloses = document.querySelectorAll('.delete');
+
+            modalButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const target = button.getAttribute('data-target');
+                    const modal = document.getElementById(target);
+                    modal.classList.add('is-active');
+                });
+            });
+
+            modalCloses.forEach(close => {
+                close.addEventListener('click', () => {
+                    const modal = close.closest('.modal');
+                    modal.classList.remove('is-active');
+                });
+            });
+        });
+    </script>
+</body>

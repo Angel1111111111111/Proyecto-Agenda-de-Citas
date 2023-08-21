@@ -1,0 +1,613 @@
+﻿/* Estilos para el navbar */
+.navbar a {
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar.is-dark {
+    background-color: #2eb8c5;
+    color: white;
+}
+
+.navbar-item {
+    color: yellow;
+    font-size: 16px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.navbar-item:hover {
+    background-color: #f0f0f0;
+    color: #1e1e1e;
+}
+
+.navbar-burger {
+    color: white;
+}
+
+.navbar-brand img {
+    max-width: 40px;
+    max-height: 50px;
+}
+
+#navbarBasicExample {
+    background-color: #228baf;
+    padding: 4px;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-start {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navbar-item {
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid #dbc150;
+    }
+}
+
+.fDelete {
+    background-image: url('../imagen/pregunta.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+
+.a {
+    margin: 100px;
+}
+
+.card-header-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+/*css del index*/
+
+.fondo {
+    background: linear-gradient(to bottom right, #00aaff, #ff0077);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-bottom: 60px;
+}
+
+.card-content {
+    padding: 10px;
+}
+
+.texto {
+    font-size: 30px;
+    font-weight: 600;
+    color: coral;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.carousel .card-content.p {
+    font-size: 17px;
+    line-height: 1.4;
+}
+
+.card.movimiento .card-content {
+    background-color: white;
+    color: black;
+}
+
+.card.movimiento .card-content span {
+    background-color: #2eb8c5;
+    padding: 5px 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.carousel .card-content span {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: chocolate;
+}
+
+.carousel-container {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+    position: relative;
+}
+
+.movimiento {
+    width: calc((5vw - 5px)/1);
+    margin-right: 50px;
+}
+
+.carousel {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel .card {
+    flex: 0 0 384px;
+    margin-right: 5px;
+}
+
+.card-image img {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.carousel-description {
+    text-align: center;
+}
+
+.carousel-controls {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    align-items: center;
+    width: 98%;
+}
+
+.carousel-controls button {
+    background: none;
+    border: none;
+    color: black;
+    font-size: 25px;
+    cursor: pointer;
+    margin: 0;
+    transition: transform 0.3s;
+}
+
+.carousel-controls button:hover {
+    transform: scale(1.1);
+}
+
+/*Estilos de la vista crear citas*/
+
+.iconsave {
+    display: inline-flex;
+    align-items: center;
+}
+
+    .iconsave i {
+        margin-right: 8px;
+    }
+
+.button-text {
+    margin-left: 8px;
+}
+
+.CrearCitas {
+    margin: 0;
+    padding: 0;
+    background: url('../imagen/principal.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-bottom: 60px;
+}
+
+.imgGra {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../imagen/Gracias.jpeg');
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+.title {
+    margin: 50px;
+    padding: 0;
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.btn {
+    margin: 50px;
+    position: center;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
+
+.centered-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/*Estilos de la vista Lista de citas*/
+
+.fondo3 {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    /*background-image: url('../imagen/Agenda.jpeg');*/
+    background: linear-gradient(to bottom, #2b86d7, #ad34c1);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+.button.crear.is-warning {
+    font-size: 18px;
+    padding: 10px 20px;
+    font-family: Georgia;
+    color: black;
+}
+
+/*.filtro-container {
+    margin-top: 20px;
+}*/
+
+/*.filtro-container label {
+    padding: 0;
+    color: white;
+    margin-right: 10px;
+    font-weight: bold;
+    font-family: Georgia;
+}*/
+
+/*.filtro-container select {
+    padding: 7px;
+    border: 1px solid #ccc;
+    font-family: Georgia;
+   border-radius: 5px;
+}
+
+.filtro-container {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px;
+}*/
+
+.table {
+    background-color: transparent;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 20px;
+}
+
+.table-container {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.table-container th,
+.table-container td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #929292;
+}
+
+.table-container tbody tr:hover {
+    background-color: #c1d0d0;
+}
+
+.button {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+    border-radius: 10px;
+    padding: 0px 12px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.table td p {
+    margin: 0;
+    line-height: 1.5;
+}
+
+/*.filtrocita {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}*/
+
+.search-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 600px;
+    margin: 20px 10px;
+}
+
+.search-input {
+    font-size: 14px;
+    margin-right: 10px;
+    padding: 9px;
+    font-family: Arial, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.search-button {
+    background-color: #8e44ad;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 17px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search-button:hover {
+    background-color: #6c3483;
+}
+
+.search-label {
+    font-family: Georgia;
+    font-size: 24px;
+    margin-right: 10px;
+    color: white;
+}
+
+.Noencontrado {
+    margin-top: 5px;
+    display: none;
+    color: red;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.clinic-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.clinic-info i {
+    margin-right: 10px;
+    font-size: 24px;
+    color: white;
+}
+
+.clinic-info span {
+    font-size: 24px;
+    color: purple;
+    display: flex;
+    align-items: center;
+    font-family: Georgia;
+}
+
+/*Estilos de la vista login*/
+
+.fondo2 {
+    margin: 0;
+    padding-block: 0;
+    background-image: url('../imagen/FLogin.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+}
+
+.customLogin {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#loginForm {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+#loginForm h2 {
+    font-size: 1.5rem;
+    color: #1db954;
+    margin-bottom: 10px;
+}
+
+#loginForm p {
+    font-size: 1.25rem;
+    color: #1db954;
+    margin-bottom: 20px;
+}
+
+#loginForm .input {
+    margin-bottom: 10px;
+    border-color: #1db954;
+}
+
+#loginForm .input:hover, #loginForm .input:focus {
+    border-color: #f6f6f6;
+}
+
+#loginForm .button {
+    color: #fff;
+    font-size: 1rem;
+    display: flex;
+    max-width: 600px;
+    margin: 10px;
+}
+
+#loginForm .button:hover {
+    background-color: #f1b500;
+}
+
+/*Estilos de la vista conocenos*/
+
+.conocenos {
+    background: radial-gradient(ellipse at center, #2eb8c5, #cfd93b);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-bottom: 60px;
+}
+
+.buttons.is-centered {
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+}
+
+.buttons.is-centered .button {
+    margin: 0 10px;
+    padding: 20px 25px;
+    font-size: 18px;
+    background-color: #d1cd24;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    }
+
+.buttons.is-centered .button:hover {
+    background-color: #93c621;
+}
+
+
+.card-content {
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #a7e9ff;
+    color: black;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-header-title {
+    font-size: 18px;
+    color: #228baf;
+}
+
+.card-header-title.is-size-4 {
+     color: black;
+}
+
+.card-header-icon .icon {
+    color: dimgray;
+}
+
+.card-header-icon .icon:hover {
+     color: black;
+}
+
+.card-content.is-hidden {
+    display: none;
+}
+
+.card-content.is-shown {
+    display: block;
+}
+
+.modal-card-head {
+    background-color: #33d4cd;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.modal-card-body {
+    padding: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/*Estilos de la vista contactenos*/
+
+.fConta {
+    background-image: url('../imagen/blancof.jpeg');
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+
+.contact-section {
+    background: linear-gradient(to bottom, #3498db, #2980b9);
+    color: #fff;
+    text-align: center;
+    padding: 100px;
+}
+
+.contact-content {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.logo {
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.contact-detail {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-detail i {
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+.contact-detail p {
+    margin: 0;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}

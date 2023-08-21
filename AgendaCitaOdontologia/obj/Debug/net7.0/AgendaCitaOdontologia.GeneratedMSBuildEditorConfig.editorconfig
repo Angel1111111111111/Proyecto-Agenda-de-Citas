@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AgendaCitaOdontologia
+build_property.RootNamespace = AgendaCitaOdontologia
+build_property.ProjectDir = C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Agenda/AgendaCita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEFnZW5kYUNpdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Agenda/Borrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEJvcnJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Agenda/Conocenos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXENvbm9jZW5vcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Agenda/Contactenos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXENvbnRhY3Rlbm9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Agenda/CrearCita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXENyZWFyQ2l0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Agenda/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Agenda/Gracias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEdyYWNpYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Agenda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Agenda/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/angel/OneDrive/Documentos/AgendaCitaOdontologia/AgendaCitaOdontologia/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7ozsrga7ro

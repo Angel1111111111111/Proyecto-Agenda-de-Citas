@@ -1,0 +1,637 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AgendaCitaOdontologia.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AgendaCitaOdontologia.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\css\\Custom.css",
+      "PackagePath": "staticwebassets\\css\\Custom.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\Agenda.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\Agenda.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\Caries.jpg",
+      "PackagePath": "staticwebassets\\imagen\\Caries.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\Ceva.jpg",
+      "PackagePath": "staticwebassets\\imagen\\Ceva.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\Extracciones-Dentales.png",
+      "PackagePath": "staticwebassets\\imagen\\Extracciones-Dentales.png"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\FLista.jpg",
+      "PackagePath": "staticwebassets\\imagen\\FLista.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\FLogin.jpg",
+      "PackagePath": "staticwebassets\\imagen\\FLogin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\Gracias.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\Gracias.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\Logo-r.png",
+      "PackagePath": "staticwebassets\\imagen\\Logo-r.png"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\Logo.jpg",
+      "PackagePath": "staticwebassets\\imagen\\Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\Ortodoncia.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\Ortodoncia.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\blancof.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\blancof.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\conducto.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\conducto.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\consul.jpg",
+      "PackagePath": "staticwebassets\\imagen\\consul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\contafondo.jpg",
+      "PackagePath": "staticwebassets\\imagen\\contafondo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\limpiezadental.jpg",
+      "PackagePath": "staticwebassets\\imagen\\limpiezadental.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\pregunta.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\pregunta.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\principal.jpg",
+      "PackagePath": "staticwebassets\\imagen\\principal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\imagen\\protesis.jpeg",
+      "PackagePath": "staticwebassets\\imagen\\protesis.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bulma"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bulma\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\bulma.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\bulma.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\css\\bulma-rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bulma\\css\\bulma-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\css\\bulma-rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bulma\\css\\bulma-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\css\\bulma-rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bulma\\css\\bulma-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\css\\bulma.css",
+      "PackagePath": "staticwebassets\\lib\\bulma\\css\\bulma.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\css\\bulma.css.map",
+      "PackagePath": "staticwebassets\\lib\\bulma\\css\\bulma.css.map"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\css\\bulma.min.css",
+      "PackagePath": "staticwebassets\\lib\\bulma\\css\\bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bulma\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\base\\_all.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\base\\_all.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\base\\animations.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\base\\animations.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\base\\generic.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\base\\generic.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\base\\helpers.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\base\\helpers.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\base\\minireset.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\base\\minireset.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\_all.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\_all.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\breadcrumb.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\breadcrumb.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\card.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\card.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\dropdown.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\dropdown.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\level.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\level.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\media.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\media.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\menu.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\menu.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\message.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\message.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\modal.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\modal.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\navbar.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\navbar.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\pagination.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\pagination.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\panel.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\panel.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\components\\tabs.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\components\\tabs.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\_all.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\_all.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\box.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\box.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\button.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\button.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\container.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\container.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\content.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\content.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\form.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\form.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\icon.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\icon.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\image.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\image.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\notification.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\notification.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\other.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\other.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\progress.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\progress.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\table.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\table.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\tag.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\tag.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\elements\\title.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\elements\\title.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\form\\_all.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\form\\_all.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\form\\checkbox-radio.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\form\\checkbox-radio.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\form\\file.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\form\\file.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\form\\input-textarea.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\form\\input-textarea.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\form\\select.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\form\\select.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\form\\shared.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\form\\shared.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\form\\tools.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\form\\tools.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\grid\\_all.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\grid\\_all.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\grid\\columns.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\grid\\columns.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\grid\\tiles.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\grid\\tiles.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\_all.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\_all.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\color.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\color.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\flexbox.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\flexbox.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\float.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\float.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\other.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\other.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\overflow.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\overflow.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\position.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\position.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\spacing.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\spacing.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\typography.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\typography.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\helpers\\visibility.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\helpers\\visibility.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\layout\\_all.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\layout\\_all.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\layout\\footer.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\layout\\footer.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\layout\\hero.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\layout\\hero.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\layout\\section.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\layout\\section.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\utilities\\_all.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\utilities\\_all.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\utilities\\animations.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\utilities\\animations.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\utilities\\controls.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\utilities\\controls.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\utilities\\derived-variables.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\utilities\\derived-variables.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\utilities\\extends.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\utilities\\extends.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\utilities\\functions.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\utilities\\functions.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\utilities\\initial-variables.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\utilities\\initial-variables.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\bulma\\sass\\utilities\\mixins.sass",
+      "PackagePath": "staticwebassets\\lib\\bulma\\sass\\utilities\\mixins.sass"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Documentos\\AgendaCitaOdontologia\\AgendaCitaOdontologia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AgendaCitaOdontologia.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AgendaCitaOdontologia.props",
+      "PackagePath": "build\\AgendaCitaOdontologia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AgendaCitaOdontologia.props",
+      "PackagePath": "buildMultiTargeting\\AgendaCitaOdontologia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AgendaCitaOdontologia.props",
+      "PackagePath": "buildTransitive\\AgendaCitaOdontologia.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

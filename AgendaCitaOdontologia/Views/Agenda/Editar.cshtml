@@ -1,0 +1,126 @@
+﻿@model Agenda
+@{
+    ViewData["Title"] = "Editar cita";
+}
+
+<body class="CrearCitas">
+
+    <div class="background-container is-flex is-justify-content-center is-align-items-center">
+        <section class="section">
+            <div class="container">
+                <form asp-action="Editar" method="post">
+                    <input asp-for="Id" type="hidden" />
+
+                    <h1 class="title">@ViewData["Title"]</h1>
+
+                    <div asp-validation-summary="ModelOnly" class="help is-danger"></div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Nombre">Nombre</label>
+                        <div class="control has-icons-left">
+                            <input asp-for="Nombre" class="input" type="text" placeholder="Ingrese su nombre completo" value="@Model.Nombre">
+                            <span class="help is-danger" asp-validation-for="Nombre"></span>
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-user"></i>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Edad">Edad</label>
+                        <div class="control has-icons-left">
+                            <input asp-for="Edad" class="input" type="number" placeholder="Ingrese su edad" value="@Model.Edad">
+                            <span class="help is-danger" asp-validation-for="Edad"></span>
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-id-card"></i>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Telefono">Telefono</label>
+                        <div class="control has-icons-left">
+                            <input asp-for="Telefono" class="input" type="tel" placeholder="Ingrese su número telefónico" value="@Model.Telefono">
+                            <span class="help is-danger" asp-validation-for="Telefono"></span>
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-phone"></i>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Email">Email</label>
+                        <div class="control has-icons-left">
+                            <input asp-for="Email" class="input" type="email" placeholder="Ingrese su correo electrónico" value="@Model.Email">
+                            <span class="help is-danger" asp-validation-for="Email"></span>
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-envelope"></i>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="TipoCita">Tipo de cita</label>
+                        <div class="control">
+                            <div class="select">
+                                <select asp-for="TipoCita">
+                                    <option value="">Seleccione una opción</option>
+                                    <option>Limpieza dental</option>
+                                    <option>Consulta de evaluación</option>
+                                    <option>Extracción dental</option>
+                                    <option>Protesis dental</option>
+                                    <option>Tratamientos de ortodoncia</option>
+                                    <option>Tratamientos de caries</option>
+                                    <option>Tratamientos de conducto</option>
+                                </select>
+                            </div>
+                            <span asp-validation-for="TipoCita" class="help is-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="FechaHota">Fecha y Hora de Cita</label>
+                        <div class="control">
+                            <input asp-for="FechaHota" class="input" type="datetime-local" value="@Model.FechaHota.ToString("yyyy-MM-ddTHH:mm")">
+                        </div>
+                        <span class="help is-danger" asp-validation-for="FechaHota"></span>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Observacion">Observación</label>
+                        <div class="control">
+                            <textarea asp-for="Observacion" class="textarea" placeholder="Ingrese una observación">@Model.Observacion</textarea>
+                        </div>
+                        <span class="help is-danger" asp-validation-for="Observacion"></span>
+                    </div>
+
+                    <div class="field is-grouped">
+                        <span>
+
+                        </span>
+                        <div class="control">
+                            <span class="iconsave">
+                                <button type="submit" class="button is-primary">
+                                    <i class="fas fa-save"></i> Actualizar
+                                </button>
+                            </span>
+                        </div>
+                        <div class="control">
+                            <span class="iconsave">
+                                <a asp-action="AgendaCita" class="button is-danger">
+                                    <i class="fas fa-times-circle"></i> Cancelar
+                                </a>
+                            </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </div>
+
+    
+</body>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

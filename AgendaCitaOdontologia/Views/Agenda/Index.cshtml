@@ -1,0 +1,182 @@
+﻿@{
+    ViewData["Title"] = "Clínica RadianteSonrisa";
+}
+
+<h1 class="title has-text-centered">@ViewData["Title"]</h1>
+
+<body class="fondo">
+    <div class="texto">
+        <p>
+            Descubre Nuestras Especialidades Dentales
+        </p>
+    </div>
+
+    <div class="carousel-container">
+        <div class="carousel">
+            <div class="card movimiento">
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="~/imagen/limpiezadental.jpg" alt="Placeholder image">
+                    </figure>
+                </div>
+                <div class="card-content">
+                    <span style="text-align: center;">
+                        <i class="fas fa-teeth-open"> Limpieza dental</i>
+                    </span>
+                    <p>
+                        Una limpieza dental es un tratamiento preventivo que se hace para eliminar
+                        la placa y el sarro que se acumulan en los dientes y las encías.
+                        El objetivo es prevenir enfermedades dentales como la caries o la gingivitis
+                    </p>
+                </div>
+            </div>
+
+            <div class="card movimiento">
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="~/imagen/Ceva.jpg" alt="Placeholder image">
+                    </figure>
+                </div>
+                <div class="card-content">
+                    <span style="text-align: center;">
+                        <i class="fas fa-teeth-open"> Consulta de evaluacion</i>
+                    </span>
+                    <p>
+                        Es una revisión de los dientes y las encías que se hace para prevenir y tratar problemas
+                        de salud bucal, la valoración y diagnóstico odontológico son vitales para recopilar de información
+                        y planificar las intervenciones necesarias.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="card movimiento">
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="~/imagen/Extracciones-Dentales.png" alt="Placeholder image">
+                    </figure>
+                </div>
+                <div class="card-content">
+                    <span style="text-align: center;">
+                        <i class="fas fa-teeth-open"> Extraccion dental</i>
+                    </span>
+                    <p>
+                        Es un procedimiento en el cual se retira un diente de su cavidad en el hueso dental y en la encía. 
+                        Este procedimiento puede ser necesario por diversas razones, como dientes dañados, dientes de juicio impactados, 
+                        infecciones dentales graves.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card movimiento">
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="~/imagen/protesis.jpeg" alt="Placeholder image">
+                    </figure>
+                </div>
+                <div class="card-content">
+                    <span style="text-align: center;">
+                        <i class="fas fa-teeth-open"> Protesis dental</i>
+                    </span>
+                    <p>
+                        Es un dispositivo diseñado para reemplazar dientes perdidos y restaurar la función masticatoria,
+                        la estética y la estructura facial. Las prótesis dentales son una solución efectiva para mejorar la
+                        calidad de vida de las personas que han perdido uno o varios dientes debido a diversas razones, como caries,
+                        enfermedad periodontal, trauma o desgaste natural.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card movimiento">
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="~/imagen/Ortodoncia.jpeg" alt="Placeholder image">
+                    </figure>
+                </div>
+                <div class="card-content">
+                    <span style="text-align: center;">
+                        <i class="fas fa-teeth-open"> Tratamientos de ortodoncia</i>
+                    </span>
+                    <p>
+                        Se encarga de corregir y prevenir las alteraciones en la posición de los dientes y los huesos de la boca y la cara. 
+                        La ortodoncia puede mejorar la estética, la función y la salud bucal de las personas que la necesitan. 
+                        Algunos dispositivos que se usan en la ortodoncia son los aparatos (frenos), los alineadores transparentes y los retenedores.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card movimiento">
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="~/imagen/Caries.jpg" alt="Placeholder image">
+                    </figure>
+                </div>
+                <div class="card-content">
+                    <span style="text-align: center;">
+                        <i class="fas fa-teeth-open"> Tratamiendo de caries</i>
+                    </span>
+                    <p>
+                        Es un procedimiento dental diseñado para eliminar el tejido dental dañado por caries y restaurar el diente afectado. 
+                        Las caries son áreas de desmineralización y deterioro del esmalte dental causadas principalmente por la acumulación 
+                        de placa bacteriana y ácidos producidos por bacterias en la boca.
+                    </p>
+                </div>
+            </div>
+
+            <div class="card movimiento">
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="~/imagen/conducto.jpeg" alt="Placeholder image">
+                    </figure>
+                </div>
+                <div class="card-content">
+                    <span style="text-align: center;">
+                        <i class="fas fa-teeth-open"> Tratamiendo de conducto</i>
+                    </span>
+                    <p>
+                        Es un procedimiento dental que se realiza cuando la pulpa interna de un diente está dañada o infectada. La pulpa contiene nervios, 
+                        vasos sanguíneos y tejido conectivo, y puede inflamarse o infectarse debido a caries profundas, traumatismos, fracturas dentales u otras razones. 
+                        El tratamiento de conducto busca salvar el diente al eliminar la pulpa afectada y sellar los conductos radiculares para prevenir futuras infecciones.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="carousel-controls">
+        <button id="prevBtn"><i class="fas fa-chevron-left"></i></button>
+        <button id="nextBtn"><i class="fas fa-chevron-right"></i></button>
+    </div>
+    @*<br />
+    <p class="has-text-centered is-size-5">
+        Después de haber explorado nuestros diferentes tipos de procedimientos, ¡estamos listos para agendar tu cita!
+        <br>
+        <a asp-action="CrearCita" class="btn btn-secondary">Crear cita</a>*@
+    
+    <script>
+        const carousel = document.querySelector('.carousel');
+        let translateX = 0;
+
+        function slide(direction) {
+            translateX += direction * (carousel.offsetWidth + 10);
+            const maxTranslate = (carousel.children.length - 1) * -(carousel.offsetWidth + 10);
+            if (translateX > 0) {
+                translateX = maxTranslate;
+            } else if (translateX < maxTranslate) {
+                translateX = 0;
+            }
+            carousel.style.transform = `translateX(${translateX}px)`;
+        }
+
+        const slideInterval = setInterval(() => slide(-1), 5000); 
+
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+        prevBtn.addEventListener('click', () => slide(1));
+        nextBtn.addEventListener('click', () => slide(-1));
+        //carousel.addEventListener('mouseover', () => clearInterval(slideInterval));
+        //carousel.addEventListener('mouseout', () => slideInterval = setInterval(() => slide(-1), 5000));
+    </script> 
+</body>
+
+

@@ -1,0 +1,264 @@
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\appsettings.Development.json
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\appsettings.json
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.staticwebassets.runtime.json
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.exe
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.deps.json
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.runtimeconfig.json
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.pdb
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.csproj.AssemblyReference.cache
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.AssemblyInfoInputs.cache
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.AssemblyInfo.cs
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.csproj.CoreCompileInputs.cache
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.RazorAssemblyInfo.cache
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.RazorAssemblyInfo.cs
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.AgendaCitaOdontologia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.build.AgendaCitaOdontologia.props
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AgendaCitaOdontologia.props
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AgendaCitaOdontologia.props
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets.build.json
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets.development.json
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\scopedcss\bundle\AgendaCitaOdontologia.styles.css
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\scopedcss\projectbundle\AgendaCitaOdontologia.bundle.scp.css
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\refint\AgendaCitaOdontologia.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.pdb
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.genruntimeconfig.cache
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\ref\AgendaCitaOdontologia.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\EntityFramework.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.CodeDom.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ProyectoII\ProyectoU3\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.csproj.CopyComplete
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.staticwebassets.runtime.json
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.exe
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.deps.json
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.pdb
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.RazorAssemblyInfo.cache
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.RazorAssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.AgendaCitaOdontologia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.build.AgendaCitaOdontologia.props
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AgendaCitaOdontologia.props
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AgendaCitaOdontologia.props
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\scopedcss\bundle\AgendaCitaOdontologia.styles.css
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\scopedcss\projectbundle\AgendaCitaOdontologia.bundle.scp.css
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.csproj.CopyComplete
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\refint\AgendaCitaOdontologia.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.pdb
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\ref\AgendaCitaOdontologia.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Dapper.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Fable.AST.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.Blob.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.Dom.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.Event.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.Gamepad.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.WebStorage.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Fable.Core.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Fable.React.Types.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Fable.ReactDom.Types.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Feliz.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Feliz.Bulma.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Feliz.CompilerPlugins.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\OneDrive - Universidad Nacional Autónoma de Honduras\poo\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\appsettings.json
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.staticwebassets.runtime.json
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.exe
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.deps.json
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.runtimeconfig.json
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\AgendaCitaOdontologia.pdb
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Dapper.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Fable.AST.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.Blob.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.Dom.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.Event.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.Gamepad.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Browser.WebStorage.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Fable.Core.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Fable.React.Types.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Fable.ReactDom.Types.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Feliz.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Feliz.Bulma.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Feliz.CompilerPlugins.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.RazorAssemblyInfo.cache
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.RazorAssemblyInfo.cs
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.AgendaCitaOdontologia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.build.AgendaCitaOdontologia.props
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AgendaCitaOdontologia.props
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AgendaCitaOdontologia.props
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\scopedcss\bundle\AgendaCitaOdontologia.styles.css
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\scopedcss\projectbundle\AgendaCitaOdontologia.bundle.scp.css
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.csproj.CopyComplete
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\refint\AgendaCitaOdontologia.dll
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.pdb
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\AgendaCitaOdontologia.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Documentos\AgendaCitaOdontologia\AgendaCitaOdontologia\obj\Debug\net7.0\ref\AgendaCitaOdontologia.dll

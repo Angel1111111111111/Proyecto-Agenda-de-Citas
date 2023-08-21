@@ -1,0 +1,157 @@
+﻿
+@{
+    ViewData["Title"] = "Agenda de Cita";
+}
+
+<span class="iconsave">
+    <a asp-action="CrearCita" class="button crear is-warning">
+        <i class="fas fa-user-plus"></i> Crea una nueva cita
+    </a>
+</span>
+
+<body class="fondo3">
+    
+    <div class="search-buttons">
+        <div class="search-left">
+            <label class="search-label" for="nombreBusqueda">Buscar por nombre:</label>
+            <input type="text" id="nombreBusqueda" class="search-input" placeholder="Ingrese el nombre...">
+            <button id="buscarPorNombre" class="search-button">Buscar</button>
+            <div class="Noencontrado" id="no-cita-message" style="display: none;">No se encontró ninguna cita con ese nombre.</div>
+        </div>
+    </div>
+
+    @*<div class="filtro-container">
+
+        <label class="filtrocita is-size-5" for="filtroTipoCita">Filtrar por Tipo de Cita:</label>
+        <select id="filtroTipoCita">
+            <option value="">Todos</option>
+            <option value="Limpieza dental">Limpieza dental</option>
+            <option value="Consulta de evaluación">Consulta de evaluación</option>
+            <option value="Extracción dental">Extracción dental</option>
+            <option value="Protesis dental">Protesis dental</option>
+            <option value="Tratamientos de ortodoncia">Tratamientos de ortodoncia</option>
+            <option value="Tratamientos de caries">Tratamientos de caries</option>
+            <option value="Tratamientos de conducto">Tratamientos de conducto</option>
+        </select>
+    </div>*@
+    <div class="clinic-info">
+        <i class="fas fa-clinic-medical"></i>
+        <span>Clínica RadianteSonrisa</span>
+    </div>
+
+    <div class="table-container">
+        <table class="table is-fullwidth">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Edad</th>
+                    <th>Telefono</th>
+                    <th>Email</th>
+                    <th>Tipo de Cita</th>
+                    <th>Hora de la Cita</th>
+                    <th>Obserbaciones</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody id="reordenable">
+                @foreach (var agenda in Model)
+                {
+                    <tr data-tipo-cita="@agenda.TipoCita">
+                        <td>@agenda.Nombre</td>
+                        <td>@agenda.Edad</td>
+                        <td>@agenda.Telefono</td>
+                        <td>@agenda.Email</td>
+                        <td>@agenda.TipoCita</td>
+                        <td>@agenda.FechaHota</td>
+                        <td>@agenda.Observacion</td>
+                        <td>
+                            <input type="hidden" value="@agenda.Id" class="ids" />
+                            <span class="iconsave">
+                                <a asp-action="Editar" asp-route-id="@agenda.Id" class="button is-info">
+                                    <i class="fas fa-user-edit"></i> Editar</a>
+                                <a asp-action="Borrar" asp-route-id="@agenda.Id" class="button is-danger">
+                                    <i class="fas fa-user-times"></i> Borrar
+                                </a>
+                            </span>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+
+@section Scripts {
+    <script>
+        // Función para filtrar por nombre
+        // Función para filtrar por nombre
+        function filtrarPorNombre(nombreFiltro) {
+            $('#reordenable tr').hide(); // Oculta todas las filas
+
+            if (nombreFiltro === "") {
+                $('#reordenable tr').show(); // vuelve todas las filas si el filtro está vacío
+            } else {
+                var nombreEncontrado = false;
+                $('#reordenable tr td:first-child').each(function () {
+                    var nombreCita = $(this).text().toLowerCase();
+                    if (nombreCita.includes(nombreFiltro)) {
+                        $(this).closest('tr').show();
+                        nombreEncontrado = true;
+                    }
+                });
+
+                // muestra el mensaje si no se encontró ningún nombre
+                if (!nombreEncontrado) {
+                    $('#no-cita-message').show();
+                } else {
+                    $('#no-cita-message').hide();
+                }
+            }
+        }
+
+        $(document).ready(function () {
+            $('#filtroTipoCita').change(function () {
+                var tipoCitaSeleccionado = $(this).val();
+                filtrarPorTipoCita(tipoCitaSeleccionado);
+            });
+
+            $('#buscarPorNombre').click(function () {
+                var nombreBusqueda = $('#nombreBusqueda').val().toLowerCase();
+                filtrarPorNombre(nombreBusqueda);
+            });
+
+            // revisa cambios en el campo de búsqueda en tiempo real
+            $('#nombreBusqueda').on('input', function () {
+                var nombreBusqueda = $(this).val().toLowerCase();
+                filtrarPorNombre(nombreBusqueda);
+            });
+
+            // filtra inicialmente al cargar la página
+            filtrarPorTipoCita($('#filtroTipoCita').val());
+        });
+
+        //funcion para fultrar por tipo de cita
+        //function filtrarPorTipoCita(tipoCitaFiltro) {
+        //    $('#reordenable tr').hide(); // Ocultar todas las filas
+
+        //    // Muestra solo las filas que coinciden con el tipo de cita seleccionado
+        //    if (tipoCitaFiltro === '') {
+        //        $('#reordenable tr').show(); // Muestra todas las filas si el filtro está vacío
+        //    } else {
+        //        $('#reordenable tr[data-tipo-cita="' + tipoCitaFiltro + '"]').show();
+        //    }
+        //}
+
+        //$(document).ready(function () {
+        //    $('#filtroTipoCita').change(function () {
+        //        var tipoCitaSeleccionado = $(this).val();
+        //        filtrarPorTipoCita(tipoCitaSeleccionado);
+        //    });
+
+        //    // Filtra inicialmente al cargar la página
+        //    filtrarPorTipoCita($('#filtroTipoCita').val());
+        //});
+    </script>
+}
+
+

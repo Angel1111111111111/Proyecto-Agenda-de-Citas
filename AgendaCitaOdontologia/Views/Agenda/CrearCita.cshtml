@@ -1,0 +1,125 @@
+﻿@model Agenda
+@{
+    ViewData["Title"] = "Agendar la Cita";
+}
+
+<style>
+    
+</style>
+
+<body class="CrearCitas">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="background-container is-flex is-justify-content-center is-align-items-center">
+
+        <section class="section">
+            <div class="container">
+                <form asp-action="CrearCita" method="post">
+                    <h1 class="title">@ViewData["Title"]</h1>
+
+                    <div asp-validation-summary="ModelOnly" class="help is-danger"></div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Nombre">Nombre</label>
+                        <div class="control has-icons-left has-icons-right">
+                            <input asp-for="Nombre" class="input is-success" type="text" placeholder="Ingrese su nombre completo">
+                            <span asp-validation-for="Nombre" class="help is-danger is-size-6"></span>
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-user"></i>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Edad">Edad</label>
+                        <div class="control has-icons-left has-icons-right">
+                            <input asp-for="Edad" class="input is-success" type="text" placeholder="Ingrese su edad">
+                            <span asp-validation-for="Edad" class="help is-danger is-size-6"></span>
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-id-card"></i>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Telefono">Teléfono</label>
+                        <div class="control has-icons-left has-icons-right">
+                            <input asp-for="Telefono" class="input is-success" type="text" placeholder="Ingrese su número de teléfono">
+                            <span asp-validation-for="Telefono" class="help is-danger is-size-6"></span>
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-mobile-alt"></i>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Email">Correo Electrónico</label>
+                        <div class="control has-icons-left has-icons-right">
+                            <input asp-for="Email" class="input is-success" type="email" placeholder="Ingrese su correo electrónico">
+                            <span asp-validation-for="Email" class="help is-danger is-size-6"></span>
+                            <span class="icon is-small is-left">
+                                <i class="fas fa-envelope"></i>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="TipoCita">Tipo de Cita</label>
+                        <div class="control">
+                            <div class="select is-success">
+                                <select asp-for="TipoCita" class="select">
+                                    <option value="">Seleccione una opción</option>
+                                    <option>Limpieza dental</option>
+                                    <option>Consulta de evaluación</option>
+                                    <option>Extracción dental</option>
+                                    <option>Protesis dental</option>
+                                    <option>Tratamientos de ortodoncia</option>
+                                    <option>Tratamientos de caries</option>
+                                    <option>Tratamientos de conducto</option>
+                                </select>
+                            </div>
+                            <span asp-validation-for="TipoCita" class="help is-danger is-size-6"></span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="FechaHota">Fecha y Hora de Cita</label>
+                        <div class="control">
+                            <input asp-for="FechaHota" class="input is-success" type="datetime-local">
+                            <span asp-validation-for="FechaHota" class="help is-danger is-size-6"></span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label class="label" asp-for="Observacion">Observación</label>
+                        <div class="control">
+                            <textarea asp-for="Observacion" class="textarea is-success" placeholder="Ingrese una observación"></textarea>
+                            <span asp-validation-for="Observacion" class="help is-danger is-size-6"></span>
+                        </div>
+                    </div>
+
+                    <div class="field is-grouped">
+                        <div class="control">
+                            <span class="iconsave">
+                                <button type="submit" class="button is-primary">
+                                    <i class="fas fa-save"></i> Guardar
+                                    </button>
+                            </span>
+                            
+                        </div>
+                        <div class="control">
+                            <span class="iconsave">
+                                <a asp-action="index" class="button is-danger">
+                                    <i class="fas fa-window-close"></i> Cancelar
+                                </a>
+                            </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </div>
+</body>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

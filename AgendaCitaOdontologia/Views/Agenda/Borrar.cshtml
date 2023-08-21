@@ -1,0 +1,23 @@
+﻿@model Agenda
+
+@{
+    ViewData["Title"] = "Confirmar Borrado";
+}
+
+<h1 class="title is-size-3" style="font-size: 1.25rem; color: crimson;">@ViewData["Title"]</h1>
+
+<p class="is-size-5" style="font-size: 2rem; color:red ;">¿Estás seguro de que deseas eliminar el registro?</p>
+
+<body class="fDelete">    
+    <form asp-action="BorrarCita" asp-route-id="@Model.Id" method="post">
+        <span class="iconsave">
+            <button type="submit" class="button is-danger">
+                <i class="fas fa-trash-alt"></i> Eliminar
+            </button>
+            <a asp-action="AgendaCita" class="button">
+                <i class="fas fa-window-close"></i> Cancelar
+            </a>
+        </span>
+    </form>
+</body>
+
